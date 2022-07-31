@@ -1,4 +1,4 @@
-##  1.The smart contract was deployed using remix to Rinkeby test Network @address : https://rinkeby.etherscan.io/address/0xd9611af6D366c466b7CB9A95683B49AB3868677B
+###  1.The smart contract was deployed using remix to Rinkeby test Network @address : https://rinkeby.etherscan.io/address/0xd9611af6D366c466b7CB9A95683B49AB3868677B
 
 #### 2.Images were created using http://mypaint.org/ tool.
 
